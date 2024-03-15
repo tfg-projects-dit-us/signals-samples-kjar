@@ -193,7 +193,11 @@
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
-      <value reference="../../../actionCols/set-field-col52/typedDefaultValue"/>
+      <value>
+        <valueString>problema</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
       <value reference="../../../actionCols/set-field-col52[2]/typedDefaultValue"/>
       <value reference="../../../actionCols/set-field-col52[3]/typedDefaultValue"/>
     </list>
@@ -229,9 +233,17 @@
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
-      <value reference="../../../actionCols/set-field-col52/typedDefaultValue"/>
+      <value>
+        <valueString>problema</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
       <value reference="../../../actionCols/set-field-col52[2]/typedDefaultValue"/>
-      <value reference="../../../actionCols/set-field-col52[3]/typedDefaultValue"/>
+      <value>
+        <valueString>tipo2</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
     </list>
     <list>
       <value>
@@ -266,7 +278,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>todook</valueString>
+        <valueString>problema</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -276,7 +288,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>tipo1</valueString>
+        <valueString>tipo3</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -309,7 +321,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>5</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -319,7 +331,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>url1</valueString>
+        <valueString>url2</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -357,7 +369,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>5</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -367,12 +379,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>url1</valueString>
+        <valueString>url2</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>tipo1</valueString>
+        <valueString>tipo2</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -410,8 +422,16 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value reference="../../../actionCols/set-field-col52/typedDefaultValue"/>
-      <value reference="../../../actionCols/set-field-col52[2]/typedDefaultValue"/>
-      <value reference="../../../actionCols/set-field-col52[3]/typedDefaultValue"/>
+      <value>
+        <valueString>url2</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>tipo3</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
     </list>
   </data>
 </decision-table52>
