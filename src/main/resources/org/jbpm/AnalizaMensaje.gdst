@@ -33,7 +33,7 @@
           <factField>tipo</factField>
           <fieldType>String</fieldType>
           <operator>==</operator>
-          <valueList>TAREA,PETICION,OTRA</valueList>
+          <valueList>Task,PETICION,OTRA</valueList>
           <parameters/>
         </condition-column52>
         <condition-column52>
@@ -179,7 +179,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>TAREA</valueString>
+        <valueString>Task</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -311,7 +311,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>TAREA</valueString>
+        <valueString>Task</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
