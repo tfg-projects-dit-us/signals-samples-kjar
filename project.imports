@@ -26,7 +26,7 @@
         <type>java.util.ArrayList</type>
       </import>
       <import>
-        <type>us.dit.Mensaje</type>
+        <type>us.dit.consentimientos.model.Mensaje</type>
       </import>
     </imports>
   </imports>
