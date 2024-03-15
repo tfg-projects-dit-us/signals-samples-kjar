@@ -9,19 +9,19 @@
       </metadata>
     </repository>
     <repository>
-      <include>false</include>
-      <metadata>
-        <id>github</id>
-        <url>https://maven.pkg.github.com/mit-fs/audit4improve-api</url>
-        <source>SETTINGS</source>
-      </metadata>
-    </repository>
-    <repository>
       <include>true</include>
       <metadata>
         <id>local</id>
         <url>D:/codigo/mvnLocal</url>
         <source>LOCAL</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>false</include>
+      <metadata>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/mit-fs/audit4improve-api</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
