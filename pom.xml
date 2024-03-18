@@ -7,12 +7,20 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>signals-samples-kjar</name>
+  <description>Conjunto de activos para probar las capacidades de envío de mensajes</description>
   <properties>
     <version.org.kie>7.74.1.Final</version.org.kie>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  <dependencies>
+    <dependency>
+      <groupId>us.dit</groupId>
+      <artifactId>consentimientos-model</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
   <repositories>
     <repository>
       <id>jboss-public-repository-group</id>
